@@ -18,18 +18,18 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/137574a448d09099dd229da691be3d83/squared-0.1.0.tar.xz",
-          "sha256": "78516beeaf56b5566fe57c827577ec9cd93e0b5e5eb29f6a20f82c0fb7b0f6e8"
+          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/bdb61db8bd209f0ca7d8a15906434b83/squared-0.1.1.tar.xz",
+          "sha256": "ea1501eb567ec8fa260024043cc610cd5ed393c3bfbbb74c902c01e2dc5737c0"
         },
         {
           "type": "file",
-          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/f52198b93be7f495a85c9f8e70c34c5e/squared_x86_64",
+          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/b71cb7fd8e3b000c077282c6d1f25fd0/squared_x86_64",
           "sha256": "fd672ed5053a1a52998fa9a256347a2d91684a29fc061e4ba2d65c10919aa507"
         },
         {
           "type": "file",
-          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/5fe7bf6de6f1d7a3c782822fd6b63732/data.pck",
-          "sha256": "5c47b5b0555de0a511886ff2272c5b4fc3b8a4c3422df79005de9d3b4d448cb5"
+          "url": "https://gitlab.freedesktop.org/dabrain34/squared/uploads/96f2b88b8f76c6f0eebc62bcbe03726a/data.pck",
+          "sha256": "e3ea23f11ccf2591fb1294b380f73bdb7ffb27f56c0e7281a4f06dc980be5085"
         },
         {
           "type": "script",
