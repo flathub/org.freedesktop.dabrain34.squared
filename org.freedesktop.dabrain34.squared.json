@@ -1,7 +1,7 @@
 {
   "app-id": "org.freedesktop.dabrain34.squared",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "23.08",
+  "runtime-version": "25.08",
   "sdk": "org.freedesktop.Sdk",
   "command": "org.freedesktop.dabrain34.squared.sh",
   "finish-args": [
@@ -37,6 +37,10 @@
             "(cd /app/bin && /app/bin/squared)"
           ],
           "dest-filename": "org.freedesktop.dabrain34.squared.sh"
+        },
+        {
+          "type": "patch",
+          "path": "fix-appdata.patch"
         }
       ],
       "post-install": [
